@@ -4,6 +4,9 @@
 ## Overview
 This is a modern weather prediction application built with React. It fetches real-time weather data using a public API (e.g., OpenWeatherMap) and provides users with an intuitive interface to check weather conditions for any city.
 
+Demo : https://genuine-gingersnap-6469b9.netlify.app/
+
+
 ## Features
 - **Search Functionality**: Users can search for weather information by city name.
 - **Real-Time Weather Data**: Displays temperature, humidity, wind speed, and weather conditions.
