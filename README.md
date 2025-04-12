@@ -20,7 +20,7 @@ This is a modern weather prediction application built with React. It fetches rea
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-prediction-react.git
+   gh repo clone Shivananda8051/Weather-prediction-Using-React
    cd weather-prediction-react
    ```
 2. Install dependencies:
