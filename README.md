@@ -1,8 +1,5 @@
-Here's a README.md template for a weather prediction website built using React:
 
----
-
-# Weather Prediction Website 🌦️
+# Weather Prediction Website Using React 🌦️
 
 ## Overview
 This is a modern weather prediction application built with React. It fetches real-time weather data using a public API (e.g., OpenWeatherMap) and provides users with an intuitive interface to check weather conditions for any city.
